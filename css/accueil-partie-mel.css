@@ -1,0 +1,44 @@
+/*
+Syages©®
+@author : inthragith;
+@version : 1.0;
+@date : 10/10/2020;
+*/
+
+.wrapper .body .melbanner #searchbar{ 
+    width:30%;
+    margin-left:20px;
+    margin-top:10px;
+    height: 40px;
+    color:white;
+    background-color: black;
+    border:1px solid white; 
+}
+
+.wrapper .body .melbanner #searchbar:hover{
+    background-color: rgba(25,50,75,0.6);
+    color:black;
+}
+
+.wrapper .body .melbanner #submitbutton{
+    padding-left:4px;
+    padding-right: 4px;
+    margin-left: .5%;
+    height: 40px;
+    width:auto;
+    border : 1px solid white;
+    background-color: rgba(0,0,0);
+    color: white;
+}
+
+.wrapper .body .melbanner #submitbutton:hover{
+    background-color: rgba(255,255,1);
+    color: black;
+}
+
+#submitbutton{
+    width: auto;
+    margin-top: 10px;
+    height: 100px;
+    color:black;
+}
